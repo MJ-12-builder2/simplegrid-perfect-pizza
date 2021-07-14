@@ -10,28 +10,28 @@ body{
 
 .pizzas{
     /*box-model */
-    border: 1em solid #fcbf49;
+    border: 1em solid #8b80f9;
     margin: 1em;
     padding: 1em;
     text-align: center;
-    background-color: #6bb9fa;
+    background-color: #cfbff7;
 }
 
 .small_pizza > div{
     margin: 1em;
-    background-color: ;
+    background-color: #cfbff7;
     padding: 1em;
 }
 
 .medium_pizza > div{
     margin: 1em;
-    background-color: ;
+    background-color: #cfb1b7;
     padding: 1em;
 }
 
 .large_pizza > div{
     margin: 1em;
-    background-color: ;
+    background-color: #83858c;
     padding: 1em;
 }
 
@@ -61,6 +61,5 @@ body{
             display: flex
         }
 
-
-
+    }
 }
